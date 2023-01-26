@@ -1,4 +1,8 @@
 this is hospital
 
+<<<<<<< HEAD
 This is Hospital(DcX)
 
+=======
+this is sala.
+>>>>>>> a8eced8fdaa6e169b6204a66f12972e50e5c7305
